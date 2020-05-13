@@ -1,1 +1,1 @@
-This includes interesting research articles.
+Publications by members of the Tran Lab
